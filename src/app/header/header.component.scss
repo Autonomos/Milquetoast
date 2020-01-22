@@ -1,0 +1,32 @@
+.site-header{
+    display: flex;
+    background-color: orangered;
+    justify-content: space-between;
+}
+
+.brand-header{
+    margin: auto;
+    padding-left: 5px;
+    h1 {
+      font-size: 24px;
+    }
+}
+
+.title-header{
+    display: flex;
+    color: white;
+    padding-left: 12px;
+    justify-self: left;
+}
+
+.header-fixer { 
+    display: flex;
+}
+
+.mat-toolbar-single-row {
+    height: 64px;
+}
+
+.lighter-font {
+    font-weight: 400;
+}
